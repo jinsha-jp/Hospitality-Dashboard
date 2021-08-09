@@ -6,7 +6,7 @@ https://public.tableau.com/app/profile/jinsha5776/viz/Hospitality_16282603317800
 
 # Data :
 
-The reservation data for a RWFD resort from for Jan'2020 to Oct'2020 with details of stay duration, Booking and check in date, Room Type etc.
+The reservation data for a RWFD resort  for Jan'2020 to Oct'2020 with details of stay duration, Booking and check in date, Room Type etc.
 
 This dash board helps to see the summaries:
 
